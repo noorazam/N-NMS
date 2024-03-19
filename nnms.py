@@ -1,2 +1,2 @@
 
-print("TEST branch ping OK");
+print("TEST branch ping OK 2");
