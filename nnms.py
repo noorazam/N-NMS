@@ -1,2 +1,2 @@
 
-print("TEST OK");
+print("Krismono Sadi 04322008 A TEKNIK INFORMATIKA SEMESTER 4");
